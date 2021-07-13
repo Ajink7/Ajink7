@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ajink7/Ajink7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
 <img alt = "Ajinkya Kadam's stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Ajink7&show_icons=true&hide=stars&count_private=true&theme=blue-green"/>
